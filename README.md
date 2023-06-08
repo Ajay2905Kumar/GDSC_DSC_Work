@@ -2,13 +2,14 @@
 
 This Webpage is a replica of a sample webpage given as a task for Web recruitment process.
 
-##About the Webpage
+## About the Webpage
+
 The webpage made up of
 1. HTML
-- Basic tags
+  - Basic tags
 
 2. CSS
-- Alignments and some styling
+  - Alignments and some styling
 
 3. JavaScript
-- Validation of E-mail ID entered by the User
+  - Validation of E-mail ID entered by the User
